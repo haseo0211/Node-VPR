@@ -1,0 +1,38 @@
+
+# Virtual Environment
+**/.venv/
+**/venv/
+
+# Local Settings
+/.gradio/
+
+# Private Datasets
+/VisualDB/
+/TestDB/
+
+# Pretrained Models
+/Models/
+
+# Local Collection Server
+/Server/
+
+# Python Cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Credentials
+.env
+.env.*
+!.env.example
+
+# Backup Files
+*.zip
+*.7z
+*.rar
+
+# Temporary Files
+*.log
+*.tmp
+
+/app.py

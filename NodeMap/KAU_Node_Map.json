@@ -1,0 +1,835 @@
+{
+  "version": 3,
+  "coordinate_system": "schematic_layout",
+  "grid_step_canvas": 25,
+  "meters_per_grid": 0.0,
+  "floors": [
+    "1F",
+    "2F",
+    "3F",
+    "4F"
+  ],
+  "nodes": [
+    {
+      "id": "U0001",
+      "node_id": "N1",
+      "floor": "1F",
+      "x": -375.0,
+      "y": 125.0,
+      "type": "intersection"
+    },
+    {
+      "id": "U0002",
+      "node_id": "N2",
+      "floor": "1F",
+      "x": -375.0,
+      "y": 0.0,
+      "type": "intersection"
+    },
+    {
+      "id": "U0003",
+      "node_id": "N5",
+      "floor": "1F",
+      "x": -250.0,
+      "y": 0.0,
+      "type": "intersection"
+    },
+    {
+      "id": "U0005",
+      "node_id": "N3",
+      "floor": "1F",
+      "x": -375.0,
+      "y": -75.0,
+      "type": "intersection"
+    },
+    {
+      "id": "U0006",
+      "node_id": "N6",
+      "floor": "1F",
+      "x": -250.0,
+      "y": -125.0,
+      "type": "intersection"
+    },
+    {
+      "id": "U0007",
+      "node_id": "N7",
+      "floor": "1F",
+      "x": -125.0,
+      "y": -125.0,
+      "type": "intersection"
+    },
+    {
+      "id": "U0008",
+      "node_id": "N8",
+      "floor": "1F",
+      "x": 0.0,
+      "y": -25.0,
+      "type": "intersection"
+    },
+    {
+      "id": "U0009",
+      "node_id": "N10",
+      "floor": "1F",
+      "x": 125.0,
+      "y": -25.0,
+      "type": "intersection"
+    },
+    {
+      "id": "U0010",
+      "node_id": "N11",
+      "floor": "1F",
+      "x": 125.0,
+      "y": -175.0,
+      "type": "intersection"
+    },
+    {
+      "id": "U0011",
+      "node_id": "N9",
+      "floor": "1F",
+      "x": 125.0,
+      "y": 125.0,
+      "type": "intersection"
+    },
+    {
+      "id": "U0012",
+      "node_id": "N12",
+      "floor": "2F",
+      "x": -375.0,
+      "y": 125.0,
+      "type": "intersection"
+    },
+    {
+      "id": "U0013",
+      "node_id": "N13",
+      "floor": "2F",
+      "x": -375.0,
+      "y": 0.0,
+      "type": "intersection"
+    },
+    {
+      "id": "U0014",
+      "node_id": "N14",
+      "floor": "2F",
+      "x": -375.0,
+      "y": -75.0,
+      "type": "intersection"
+    },
+    {
+      "id": "U0015",
+      "node_id": "N15",
+      "floor": "2F",
+      "x": -250.0,
+      "y": -125.0,
+      "type": "intersection"
+    },
+    {
+      "id": "U0016",
+      "node_id": "N16",
+      "floor": "2F",
+      "x": -125.0,
+      "y": -125.0,
+      "type": "intersection"
+    },
+    {
+      "id": "U0017",
+      "node_id": "N17",
+      "floor": "2F",
+      "x": 125.0,
+      "y": -175.0,
+      "type": "intersection"
+    },
+    {
+      "id": "U0018",
+      "node_id": "N18",
+      "floor": "2F",
+      "x": 125.0,
+      "y": -25.0,
+      "type": "intersection"
+    },
+    {
+      "id": "U0019",
+      "node_id": "N19",
+      "floor": "2F",
+      "x": 125.0,
+      "y": 125.0,
+      "type": "intersection"
+    },
+    {
+      "id": "U0020",
+      "node_id": "N20",
+      "floor": "3F",
+      "x": -375.0,
+      "y": 125.0,
+      "type": "intersection"
+    },
+    {
+      "id": "U0021",
+      "node_id": "N21",
+      "floor": "3F",
+      "x": -375.0,
+      "y": 0.0,
+      "type": "intersection"
+    },
+    {
+      "id": "U0022",
+      "node_id": "N22",
+      "floor": "3F",
+      "x": -375.0,
+      "y": -75.0,
+      "type": "intersection"
+    },
+    {
+      "id": "U0023",
+      "node_id": "N23",
+      "floor": "3F",
+      "x": -250.0,
+      "y": -125.0,
+      "type": "intersection"
+    },
+    {
+      "id": "U0024",
+      "node_id": "N24",
+      "floor": "3F",
+      "x": -125.0,
+      "y": -125.0,
+      "type": "intersection"
+    },
+    {
+      "id": "U0025",
+      "node_id": "N25",
+      "floor": "3F",
+      "x": 125.0,
+      "y": -175.0,
+      "type": "intersection"
+    },
+    {
+      "id": "U0026",
+      "node_id": "N26",
+      "floor": "3F",
+      "x": 125.0,
+      "y": -25.0,
+      "type": "intersection"
+    },
+    {
+      "id": "U0027",
+      "node_id": "N27",
+      "floor": "3F",
+      "x": 125.0,
+      "y": 125.0,
+      "type": "intersection"
+    },
+    {
+      "id": "U0028",
+      "node_id": "N28",
+      "floor": "4F",
+      "x": -375.0,
+      "y": 125.0,
+      "type": "intersection"
+    },
+    {
+      "id": "U0029",
+      "node_id": "N29",
+      "floor": "4F",
+      "x": -375.0,
+      "y": 0.0,
+      "type": "intersection"
+    },
+    {
+      "id": "U0030",
+      "node_id": "N30",
+      "floor": "4F",
+      "x": -375.0,
+      "y": -75.0,
+      "type": "intersection"
+    },
+    {
+      "id": "U0031",
+      "node_id": "N31",
+      "floor": "4F",
+      "x": -250.0,
+      "y": -125.0,
+      "type": "intersection"
+    },
+    {
+      "id": "U0032",
+      "node_id": "N32",
+      "floor": "4F",
+      "x": -125.0,
+      "y": -125.0,
+      "type": "intersection"
+    },
+    {
+      "id": "U0033",
+      "node_id": "N33",
+      "floor": "4F",
+      "x": 125.0,
+      "y": -175.0,
+      "type": "intersection"
+    },
+    {
+      "id": "U0034",
+      "node_id": "N34",
+      "floor": "4F",
+      "x": 125.0,
+      "y": -25.0,
+      "type": "intersection"
+    },
+    {
+      "id": "U0035",
+      "node_id": "N35",
+      "floor": "4F",
+      "x": 125.0,
+      "y": 125.0,
+      "type": "intersection"
+    },
+    {
+      "id": "U0036",
+      "node_id": "N36",
+      "floor": "3F",
+      "x": 0.0,
+      "y": -125.0,
+      "type": "intersection"
+    },
+    {
+      "id": "U0037",
+      "node_id": "N37",
+      "floor": "3F",
+      "x": 125.0,
+      "y": -125.0,
+      "type": "intersection"
+    },
+    {
+      "id": "U0038",
+      "node_id": "N38",
+      "floor": "1F",
+      "x": -325.0,
+      "y": -125.0,
+      "type": "intersection"
+    },
+    {
+      "id": "U0039",
+      "node_id": "N39",
+      "floor": "2F",
+      "x": -325.0,
+      "y": -125.0,
+      "type": "intersection"
+    },
+    {
+      "id": "U0040",
+      "node_id": "N41",
+      "floor": "4F",
+      "x": -325.0,
+      "y": -125.0,
+      "type": "intersection"
+    },
+    {
+      "id": "U0041",
+      "node_id": "N40",
+      "floor": "3F",
+      "x": -325.0,
+      "y": -125.0,
+      "type": "intersection"
+    }
+  ],
+  "edges": [
+    {
+      "id": "E1",
+      "from": "U0001",
+      "to": "U0002",
+      "type": "corridor",
+      "bidirectional": true,
+      "length_m": null
+    },
+    {
+      "id": "E2",
+      "from": "U0003",
+      "to": "U0002",
+      "type": "corridor",
+      "bidirectional": true,
+      "length_m": null
+    },
+    {
+      "id": "E7",
+      "from": "U0006",
+      "to": "U0007",
+      "type": "corridor",
+      "bidirectional": true,
+      "length_m": null
+    },
+    {
+      "id": "E8",
+      "from": "U0006",
+      "to": "U0003",
+      "type": "corridor",
+      "bidirectional": true,
+      "length_m": null
+    },
+    {
+      "id": "E11",
+      "from": "U0008",
+      "to": "U0009",
+      "type": "corridor",
+      "bidirectional": true,
+      "length_m": null
+    },
+    {
+      "id": "E12",
+      "from": "U0010",
+      "to": "U0009",
+      "type": "corridor",
+      "bidirectional": true,
+      "length_m": null
+    },
+    {
+      "id": "E13",
+      "from": "U0009",
+      "to": "U0011",
+      "type": "corridor",
+      "bidirectional": true,
+      "length_m": null
+    },
+    {
+      "id": "E14",
+      "from": "U0012",
+      "to": "U0013",
+      "type": "corridor",
+      "bidirectional": true,
+      "length_m": null
+    },
+    {
+      "id": "E17",
+      "from": "U0015",
+      "to": "U0016",
+      "type": "corridor",
+      "bidirectional": true,
+      "length_m": null
+    },
+    {
+      "id": "E18",
+      "from": "U0017",
+      "to": "U0018",
+      "type": "corridor",
+      "bidirectional": true,
+      "length_m": null
+    },
+    {
+      "id": "E19",
+      "from": "U0018",
+      "to": "U0019",
+      "type": "corridor",
+      "bidirectional": true,
+      "length_m": null
+    },
+    {
+      "id": "E20",
+      "from": "U0020",
+      "to": "U0021",
+      "type": "corridor",
+      "bidirectional": true,
+      "length_m": null
+    },
+    {
+      "id": "E22",
+      "from": "U0022",
+      "to": "U0021",
+      "type": "corridor",
+      "bidirectional": true,
+      "length_m": null
+    },
+    {
+      "id": "E23",
+      "from": "U0023",
+      "to": "U0024",
+      "type": "corridor",
+      "bidirectional": true,
+      "length_m": null
+    },
+    {
+      "id": "E26",
+      "from": "U0026",
+      "to": "U0027",
+      "type": "corridor",
+      "bidirectional": true,
+      "length_m": null
+    },
+    {
+      "id": "E27",
+      "from": "U0028",
+      "to": "U0029",
+      "type": "corridor",
+      "bidirectional": true,
+      "length_m": null
+    },
+    {
+      "id": "E28",
+      "from": "U0029",
+      "to": "U0030",
+      "type": "corridor",
+      "bidirectional": true,
+      "length_m": null
+    },
+    {
+      "id": "E30",
+      "from": "U0031",
+      "to": "U0032",
+      "type": "corridor",
+      "bidirectional": true,
+      "length_m": null
+    },
+    {
+      "id": "E31",
+      "from": "U0033",
+      "to": "U0034",
+      "type": "corridor",
+      "bidirectional": true,
+      "length_m": null
+    },
+    {
+      "id": "E32",
+      "from": "U0034",
+      "to": "U0035",
+      "type": "corridor",
+      "bidirectional": true,
+      "length_m": null
+    },
+    {
+      "id": "E33",
+      "from": "U0001",
+      "to": "U0012",
+      "type": "stairs",
+      "bidirectional": true,
+      "length_m": null
+    },
+    {
+      "id": "E34",
+      "from": "U0012",
+      "to": "U0020",
+      "type": "stairs",
+      "bidirectional": true,
+      "length_m": null
+    },
+    {
+      "id": "E35",
+      "from": "U0020",
+      "to": "U0028",
+      "type": "stairs",
+      "bidirectional": true,
+      "length_m": null
+    },
+    {
+      "id": "E36",
+      "from": "U0005",
+      "to": "U0014",
+      "type": "stairs",
+      "bidirectional": true,
+      "length_m": null
+    },
+    {
+      "id": "E37",
+      "from": "U0022",
+      "to": "U0014",
+      "type": "stairs",
+      "bidirectional": true,
+      "length_m": null
+    },
+    {
+      "id": "E38",
+      "from": "U0022",
+      "to": "U0030",
+      "type": "stairs",
+      "bidirectional": true,
+      "length_m": null
+    },
+    {
+      "id": "E39",
+      "from": "U0007",
+      "to": "U0016",
+      "type": "stairs",
+      "bidirectional": true,
+      "length_m": null
+    },
+    {
+      "id": "E40",
+      "from": "U0016",
+      "to": "U0024",
+      "type": "stairs",
+      "bidirectional": true,
+      "length_m": null
+    },
+    {
+      "id": "E41",
+      "from": "U0024",
+      "to": "U0032",
+      "type": "stairs",
+      "bidirectional": true,
+      "length_m": null
+    },
+    {
+      "id": "E42",
+      "from": "U0009",
+      "to": "U0018",
+      "type": "stairs",
+      "bidirectional": true,
+      "length_m": null
+    },
+    {
+      "id": "E43",
+      "from": "U0018",
+      "to": "U0026",
+      "type": "stairs",
+      "bidirectional": true,
+      "length_m": null
+    },
+    {
+      "id": "E44",
+      "from": "U0026",
+      "to": "U0034",
+      "type": "stairs",
+      "bidirectional": true,
+      "length_m": null
+    },
+    {
+      "id": "E45",
+      "from": "U0011",
+      "to": "U0019",
+      "type": "stairs",
+      "bidirectional": true,
+      "length_m": null
+    },
+    {
+      "id": "E46",
+      "from": "U0019",
+      "to": "U0027",
+      "type": "stairs",
+      "bidirectional": true,
+      "length_m": null
+    },
+    {
+      "id": "E47",
+      "from": "U0027",
+      "to": "U0035",
+      "type": "stairs",
+      "bidirectional": true,
+      "length_m": null
+    },
+    {
+      "id": "E48",
+      "from": "U0010",
+      "to": "U0017",
+      "type": "stairs",
+      "bidirectional": true,
+      "length_m": null
+    },
+    {
+      "id": "E49",
+      "from": "U0017",
+      "to": "U0025",
+      "type": "stairs",
+      "bidirectional": true,
+      "length_m": null
+    },
+    {
+      "id": "E50",
+      "from": "U0025",
+      "to": "U0033",
+      "type": "stairs",
+      "bidirectional": true,
+      "length_m": null
+    },
+    {
+      "id": "E51",
+      "from": "U0024",
+      "to": "U0036",
+      "type": "corridor",
+      "bidirectional": true,
+      "length_m": null
+    },
+    {
+      "id": "E53",
+      "from": "U0036",
+      "to": "U0037",
+      "type": "corridor",
+      "bidirectional": true,
+      "length_m": null
+    },
+    {
+      "id": "E54",
+      "from": "U0037",
+      "to": "U0025",
+      "type": "corridor",
+      "bidirectional": true,
+      "length_m": null
+    },
+    {
+      "id": "E55",
+      "from": "U0037",
+      "to": "U0026",
+      "type": "corridor",
+      "bidirectional": true,
+      "length_m": null
+    },
+    {
+      "id": "E56",
+      "from": "U0002",
+      "to": "U0005",
+      "type": "corridor",
+      "bidirectional": true,
+      "length_m": null
+    },
+    {
+      "id": "E57",
+      "from": "U0005",
+      "to": "U0038",
+      "type": "corridor",
+      "bidirectional": true,
+      "length_m": null
+    },
+    {
+      "id": "E58",
+      "from": "U0038",
+      "to": "U0006",
+      "type": "corridor",
+      "bidirectional": true,
+      "length_m": null
+    },
+    {
+      "id": "E59",
+      "from": "U0022",
+      "to": "U0041",
+      "type": "corridor",
+      "bidirectional": true,
+      "length_m": null
+    },
+    {
+      "id": "E60",
+      "from": "U0041",
+      "to": "U0023",
+      "type": "corridor",
+      "bidirectional": true,
+      "length_m": null
+    },
+    {
+      "id": "E61",
+      "from": "U0013",
+      "to": "U0014",
+      "type": "corridor",
+      "bidirectional": true,
+      "length_m": null
+    },
+    {
+      "id": "E62",
+      "from": "U0014",
+      "to": "U0039",
+      "type": "corridor",
+      "bidirectional": true,
+      "length_m": null
+    },
+    {
+      "id": "E63",
+      "from": "U0039",
+      "to": "U0015",
+      "type": "corridor",
+      "bidirectional": true,
+      "length_m": null
+    },
+    {
+      "id": "E64",
+      "from": "U0040",
+      "to": "U0031",
+      "type": "corridor",
+      "bidirectional": true,
+      "length_m": null
+    },
+    {
+      "id": "E65",
+      "from": "U0040",
+      "to": "U0030",
+      "type": "corridor",
+      "bidirectional": true,
+      "length_m": null
+    },
+    {
+      "id": "E66",
+      "from": "U0003",
+      "to": "U0005",
+      "type": "corridor",
+      "bidirectional": true,
+      "length_m": null
+    },
+    {
+      "id": "E67",
+      "from": "U0003",
+      "to": "U0038",
+      "type": "corridor",
+      "bidirectional": true,
+      "length_m": null
+    },
+    {
+      "id": "E68",
+      "from": "U0002",
+      "to": "U0006",
+      "type": "corridor",
+      "bidirectional": true,
+      "length_m": null
+    },
+    {
+      "id": "E69",
+      "from": "U0038",
+      "to": "U0039",
+      "type": "stairs",
+      "bidirectional": true,
+      "length_m": null
+    },
+    {
+      "id": "E70",
+      "from": "U0039",
+      "to": "U0041",
+      "type": "stairs",
+      "bidirectional": true,
+      "length_m": null
+    },
+    {
+      "id": "E71",
+      "from": "U0041",
+      "to": "U0040",
+      "type": "stairs",
+      "bidirectional": true,
+      "length_m": null
+    }
+  ],
+  "entrances": [
+    {
+      "id": "E1",
+      "node": "U0001",
+      "dx": 0.02626064,
+      "dy": 0.99965513
+    },
+    {
+      "id": "E3",
+      "node": "U0008",
+      "dx": -0.99992537,
+      "dy": -0.012217
+    },
+    {
+      "id": "E2",
+      "node": "U0003",
+      "dx": 0.70957074,
+      "dy": 0.70463421
+    },
+    {
+      "id": "E4",
+      "node": "U0011",
+      "dx": 0.01745241,
+      "dy": 0.9998477
+    },
+    {
+      "id": "E5",
+      "node": "U0010",
+      "dx": -0.01396218,
+      "dy": -0.99990252
+    }
+  ],
+  "next_node_uid": 42,
+  "next_edge_id": 72,
+  "next_entrance_id": 10
+}
